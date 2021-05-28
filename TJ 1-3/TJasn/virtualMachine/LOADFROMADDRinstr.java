@@ -1,5 +1,4 @@
 //Harjit Liyal
-//I worked with Edward Paez & Abedin Kadir
 package TJasn.virtualMachine;
 
 import static TJasn.virtualMachine.CodeInterpreter.*;

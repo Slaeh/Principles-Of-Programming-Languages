@@ -1,5 +1,4 @@
 //Harjit Liyal 
-//I worked with Edward Paez and Abedin Kadir 
 package TJasn;
 
 import static TJlexer.LexicalAnalyzer.getCurrentToken;

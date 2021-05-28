@@ -1,5 +1,4 @@
 //Harjit Liyal
-//I worked on this assignment with Edward Paez
 
 package TJ1asn;
 
